@@ -4,3 +4,6 @@ Age Detection PreTrained Model Drive Link : https://drive.google.com/drive/folde
 
 
 Dataset Link : https://drive.google.com/drive/folders/1lDB2dSyuSgEP_u01zQ-HPw8_IJEB_MfT
+
+
+Run main.py : uvicorn main:app --reload --port 8000
